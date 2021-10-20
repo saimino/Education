@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras
@@ -68,7 +68,7 @@ model.evaluate(x_test, y_test)
 
 
 model.save('My_MNIST_CNN_DATA.h5')
-=======
+
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras
@@ -138,4 +138,5 @@ model.evaluate(x_test, y_test)
 
 
 model.save('My_MNIST_CNN_DATA.h5')
->>>>>>> e77dd38f192cbad4bd9705f76cc4f39d44080b3f
+
+
